@@ -21,3 +21,4 @@ checkpoints_qwen25/
 
 # macOS
 .DS_Store
+base_model.pt
