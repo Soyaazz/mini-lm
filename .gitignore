@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# datasets
+datasets/
+processed_chinese_corpus/
+processed_qwen25_chinese/
+*.arrow
+*.bin
+
+# model checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+checkpoints_continue/
+checkpoints_qwen25/
+
+# macOS
+.DS_Store
